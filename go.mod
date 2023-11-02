@@ -1,4 +1,4 @@
-module github.com/cavaliergopher/rpm
+module github.com/daHaimi/rpm
 
 go 1.19
 

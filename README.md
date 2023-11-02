@@ -1,11 +1,13 @@
 # rpm
-[![Go Reference](https://pkg.go.dev/badge/github.com/cavaliergopher/rpm.svg)](https://pkg.go.dev/github.com/cavaliergopher/rpm) [![Build Status](https://app.travis-ci.com/cavaliergopher/rpm.svg?branch=main)](https://app.travis-ci.com/cavaliergopher/rpm) [![Go Report Card](https://goreportcard.com/badge/github.com/cavaliergopher/rpm)](https://goreportcard.com/report/github.com/cavaliergopher/rpm)
+[![Go Reference](https://pkg.go.dev/badge/github.com/daHaimi/rpm.svg)](https://pkg.go.dev/github.com/daHaimi/rpm) [![Build Status](https://app.travis-ci.com/daHaimi/rpm.svg?branch=main)](https://app.travis-ci.com/daHaimi/rpm) [![Go Report Card](https://goreportcard.com/badge/github.com/daHaimi/rpm)](https://goreportcard.com/report/github.com/daHaimi/rpm)
+
+> Forked from github.com/cavaliergopher/rpm
 
 Package rpm implements the rpm package file format.
 
-	$ go get github.com/cavaliergopher/rpm
+	$ go get github.com/daHaimi/rpm
 
-See the [package documentation](https://pkg.go.dev/github.com/cavaliergopher/rpm)
+See the [package documentation](https://pkg.go.dev/github.com/daHaimi/rpm)
 or the examples programs in `cmd/` to get started.
 
 ## Extracting rpm packages
