@@ -1,2 +1,3 @@
 cmd/rpmdump/rpmdump
 cmd/rpminfo/rpminfo
+.idea
